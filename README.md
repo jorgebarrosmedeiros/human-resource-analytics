@@ -27,6 +27,25 @@ Depois da infraestrutura devidamente criada e configurada, levando em considera�
 - Desenvolvimento do Modelo de Machine Learning;
 - Disponibilização da Solução
 
+# ANÁLISE EXPLORATÓRIA DE DADOS
 
+Na etapa de Análise Exploratória de Dados foram descobertos os vários insights importantes abaixo:
+
+## Análise Univariada 
+
+![image](https://user-images.githubusercontent.com/65432970/149682642-94251cce-1852-470d-b44d-14a45cea88aa.png)
+
+- A empresa possui uma rotatividade de aproximadamento 24%.
+
+![image](https://user-images.githubusercontent.com/65432970/149682697-eb3b30ce-0512-462c-8fd3-bfecc986ef15.png)
+
+- Existe um pico de empregados com baixa satisfação mas a maior concentração está em 60 a 80.
+
+![image](https://user-images.githubusercontent.com/65432970/149682690-da1c1489-0e10-4c07-ab78-1cff944c8988.png)
+
+**Resumo:** 
+ - Empregados com o nível de satisfação em 20 ou menos tendem a deixar a empresa.
+ - Empregados com o nível de satisfação em até 50 tem maior probabilidade de deixar a empresa.
+ - Existe uma razão para o pico de empregados insatisfeitos?
 
 
