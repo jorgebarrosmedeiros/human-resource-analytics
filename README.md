@@ -37,6 +37,8 @@ Na etapa de Análise Exploratória de Dados foram descobertos os vários insight
 
 - A empresa possui uma rotatividade de aproximadamento 24%.
 
+## Análise Bivariada
+
 ![image](https://user-images.githubusercontent.com/65432970/149682697-eb3b30ce-0512-462c-8fd3-bfecc986ef15.png)
 
 - Existe um pico de empregados com baixa satisfação mas a maior concentração está em 60 a 80.
@@ -48,4 +50,14 @@ Na etapa de Análise Exploratória de Dados foram descobertos os vários insight
  - Empregados com o nível de satisfação em até 50 tem maior probabilidade de deixar a empresa.
  - Existe uma razão para o pico de empregados insatisfeitos?
 
+### 
 
+![image](https://user-images.githubusercontent.com/65432970/149682746-15518acd-db5d-4e1c-9d6e-9a778b2de6ae.png)
+
+**Summary:**
+ - A maioria dos empregados que saíram tinha salário **baixo** ou **médio**.
+ - Quase nenhum empregado com alto salário deixou a empresa.
+ 
+**Questões:** 
+ - Como é o ambiente de trabalho? Isso se difere por salário?
+ - O que faz empregados com alto salário sairem da empresa.
