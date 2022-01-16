@@ -132,5 +132,5 @@ Com o objetivo de disponibilizar a solução, foi construido um WebApp utilizand
 
 ![image](https://user-images.githubusercontent.com/65432970/149683183-2e827424-d004-42fb-9d73-678cd1dc0180.png)
 
-
+Através desse projeto foi possível praticar e implementar conceitos importantes da Ciência e Engenharia de Dados e propor uma solução para um problema latente e recorrente de qualquer empresa que é a retenção de talentos através da Análise de Dados de Recursos Humanos. Como um processo de melhoria contínua podemos desenvolver uma automação para executar não só o pipeline de coleta e transformação de dados como automatizar os passo da etapa de Machine Learning e Deploy
 
