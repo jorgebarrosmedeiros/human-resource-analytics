@@ -117,3 +117,20 @@ Através da análise foi possível desenvolver 3 grupos distintos para agrupar c
 - Grupo 2 (Empregados ruins e insatisfeitos): Satisfação entre 35 à 50 e as suas avaliações abaixo de ~ 58. Corresponde aos empregados que foram mal avaliados e se sentiram mal no trabalho.
 
 - Grupo 3 (Empregados satisfeitos e trabalhadores): Representa os empregados ideais, que gostam do seu trabalho e são bem avaliados por seu desempenho.Este grupo pode indicar os empregados que deixaram a empresa porque encontraram outra oportunidade de trabalho.
+
+# MACHINE LEARNING 
+
+![image](https://user-images.githubusercontent.com/65432970/149683109-31f9f5f3-e88f-4d22-9749-2ad2ffc7b4c4.png)
+
+![image](https://user-images.githubusercontent.com/65432970/149683117-a00a849a-b9ae-442f-868d-26f75c5fd162.png)
+
+- Portanto, foi utilizando o LGBM como modelo classificador, tendo este uma AUC de 79%. 
+
+# DEPLOY DA SOLUÇÃO
+
+Com o objetivo de disponibilizar a solução, foi construido um WebApp utilizando o framework **streamlit**. Este pode ser visto abaixo:
+
+![image](https://user-images.githubusercontent.com/65432970/149683183-2e827424-d004-42fb-9d73-678cd1dc0180.png)
+
+
+
