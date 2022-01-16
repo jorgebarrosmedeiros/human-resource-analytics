@@ -9,3 +9,9 @@ Neste projeto cobrindo todas as etapas de um projeto real de Data Science pude r
   - Como antecipar e saber se um determinado colaborador vai sair da empresa?
   - E por fim disponibilizar recursos para que a empresa consiga realizar a predição para verificar se um colaborador vai ou não deixar a empresa com base em atributos como comportamento e carga de trabalho, nível de satisfação com a empresa e resultados de performance.
 
+# TECNOLOGIAS USADAS PARA A CONSTRUÇÃO DO PROJETO
+
+![image](https://user-images.githubusercontent.com/65432970/149674414-12fcdfe6-b1ad-4f4d-835e-e471250f7ef2.png)
+
+
+
