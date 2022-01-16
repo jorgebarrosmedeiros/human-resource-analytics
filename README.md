@@ -1,6 +1,6 @@
 # HUMAN RESOURCE ANALYTICS
 
-![image](https://user-images.githubusercontent.com/65432970/149674264-d23ce4c9-6e1f-438d-8dcc-d8262d385ef1.png)
+![Human-Resource-Analytics](https://user-images.githubusercontent.com/65432970/149683210-9fcbd7f9-d5fe-4062-9b1a-dc4c8493d1f3.jpeg)
 
 Neste projeto cobrindo todas as etapas de um projeto real de Data Science pude resolver o problema de como utilizar dados para responder a questões importantes para permitir que uma empresa tenha conhecimento sobre:
   
