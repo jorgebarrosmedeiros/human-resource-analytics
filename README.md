@@ -13,9 +13,13 @@ Neste projeto cobrindo todas as etapas de um projeto real de Data Science pude r
 
 ![image](https://user-images.githubusercontent.com/65432970/149674414-12fcdfe6-b1ad-4f4d-835e-e471250f7ef2.png)
 
-# FLUXOGRAMA DA SOLUÇÃO
+# ARQUITETURA DA SOLUÇÃO
 
 ![image](https://user-images.githubusercontent.com/65432970/149682323-6c2aed58-d35a-45e5-b33f-c147c9b28127.png)
+
+Para resolver esse problema foi construído uma solução completa para armazenamento, gestão e automatização de fluxos de dados utilizando tecnologias como Apache Airflow, Docker e Minio além de explorar uma suíte poderosa de tecnologias para trabalhar com Análise de Dados e Machine Learning que são: Pandas, Scikit-learn, Pycaret,SweetViz, Streamlit.
+
+Depois da infraestrutura devidamente criada e configurada, levando em consideração o desafio proposto foram criados e modelados atributos relevantes para análise utilizando fontes de dados diversas como arquivos em formato xlsx, json e dados no Sistemas de Gerenciamento de Banco de Dados MySQL.
 
 - Coleta dos dados;
 - Estruturação dos dados em um banco MySQL;
